@@ -1,0 +1,11 @@
+.gitignore
+.DS_Store
+DerivedData/
+*.pbxuser
+*.xcworkspace
+Pods/
+Podfile.lock
+*.ipa
+*.xcarchive
+.env
+.env.local
